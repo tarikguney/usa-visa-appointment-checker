@@ -1,5 +1,7 @@
 # USA Visa Appointment Checker
 
+![Example Image](./US-Visa-1024x666.jpg)
+
 Hello, visa seeker!
 
 This script will help you check if there is an available appointment to schedule your visa interview. This script solves the hardest part. Now, you can run this script periodically to see if there is a new appointment time available and alert yourself automatically and timely.
