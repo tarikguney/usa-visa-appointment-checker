@@ -16,7 +16,7 @@ Don't worry about your username and password. This script runs on your computer,
 
 ## How to run
 
-`visa-appointment-checker.ps1 -email "hello@world.com" -password "12abc" -scheduleId 456677`
+`./visa-appointment-checker.ps1 -email "hello@world.com" -password "12abc" -scheduleId 456677`
 
 ## Prerequisites
 
