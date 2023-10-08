@@ -1,6 +1,6 @@
 # USA Visa Appointment Checker
 
-![Example Image](./US-Visa-1024x666.jpg)
+![Example Image](./visa-logo.jpg)
 
 Hello, visa seeker!
 
