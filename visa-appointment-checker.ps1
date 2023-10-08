@@ -3,13 +3,13 @@
 Hello visa seeker!
 
 .DESCRIPTION
-This script will help you check if there is an available appoinment to schedule your visa interview. This script solves the hardest part. Now you can run this script periodically to see if there is a new appoitment time available and alert yourself automatically and timely.
+This script will help you check if there is an available appointment to schedule your visa interview. This script solves the hardest part. Now, you can run this script periodically to see if there is a new appointment time available and alert yourself automatically and timely.
 
 .PARAMETER email
-The email that you use to login at https://ais.usvisa-info.com/en-tr/iv/users/sign_in
+The email that you use to log in at https://ais.usvisa-info.com/en-tr/iv/users/sign_in
 
 .PARAMETER password
-The password that you use to login at https://ais.usvisa-info.com/en-tr/iv/users/sign_in
+The password that you use to log in at https://ais.usvisa-info.com/en-tr/iv/users/sign_in
 
 .PARAMETER scheduleId
 ScheduleId comes from the URL where you make the visa payment https://ais.usvisa-info.com/en-tr/iv/schedule/{scheduleId}/payment
