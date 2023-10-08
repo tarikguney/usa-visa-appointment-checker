@@ -1,4 +1,4 @@
-# US Visa Appointment Checker
+# USA Visa Appointment Checker
 
 Hello, visa seeker!
 
