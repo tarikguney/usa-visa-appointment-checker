@@ -18,9 +18,10 @@ Rest assured, the script runs locally on your computer, ensuring that your login
 ## How to run
 
 1. Download the visa-appointment-checker.ps1 file onto your computer. You can also clone this repo if you know Git.
-1. Open up your preferred terminal app, like Windows Terminal or iTerm. 
-2. Navigate to the directory where you placed the visa-appointment-checker.ps1 file.
-3. Run this command and make sure you provide your username, password, and schedule id `./visa-appointment-checker.ps1 -email "hello@world.com" -password "12abc" -scheduleId 456677`
+1. Open up your preferred terminal app, like Windows Terminal or iTerm.
+2. Run this command to enter the Powershell shell: `pwsh`
+3. Navigate to the directory where you placed the visa-appointment-checker.ps1 file.
+4. Run this command and make sure you provide your username, password, and schedule id `./visa-appointment-checker.ps1 -email "hello@world.com" -password "12abc" -scheduleId 456677`
 
 ## Prerequisites
 
