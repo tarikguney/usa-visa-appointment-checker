@@ -23,6 +23,7 @@ Rest assured, the script runs locally on your computer, ensuring that your login
 
 You will need to download Powershell to run this script on your computer.
 
+[Dowload it here](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.3) if you don't have it already. 
 
 ### More Help
 ```
