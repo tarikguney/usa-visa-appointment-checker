@@ -4,15 +4,16 @@
 
 Hello, Visa Seeker!
 
-This script will help you check if there is an available appointment to schedule your visa interview. This script solves the hardest part. 
+This script automates the process of checking for available visa interview appointments. 
 
-Now, you can run this script periodically to see if there is a new appointment time available and alert yourself automatically and timely.
+It logs into your account on https://ais.usvisa-info.com using your username and password, and then scans the appointment page for availability. 
 
-Perhaps, you could send yourself or someone else a notification email periodically about the availability of visa appointment dates.
+You can run the script at regular intervals to receive timely alerts on new appointment slots. 
 
-It checks the availability of visa appointments by using your username and password, logging into your account at https://ais.usvisa-info.com, and reading the appointment page there.
+Optionally, you can configure it to send email notifications about appointment availability to you or someone else. 
 
-Don't worry about your username and password. This script runs on your computer, and nothing is sent anywhere. 
+Rest assured, the script runs locally on your computer, ensuring that your login details are not shared. 
+
 
 ## How to run
 
