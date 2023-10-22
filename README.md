@@ -16,7 +16,7 @@ Rest assured, the script runs locally on your computer, ensuring that your login
 
 
 > [!IMPORTANT]
-> This code is designed for Non-Immigrant Visa Applications and has not been tested for Immigrant Visa applications. However, if you can read/write code, then it should be an easy problem to solve. If you give me a test account to write one, then I am happy to add that support as well.
+> This code is designed for **Non-Immigrant Visa Applications** and has not been tested for Immigrant Visa applications. However, if you can read/write code, then it should be an easy problem to solve. If you give me a test account to write one, then I am happy to add that support as well.
 
 ## How to run
 
