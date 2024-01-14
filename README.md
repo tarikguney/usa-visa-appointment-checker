@@ -6,17 +6,17 @@ Hello, Visa Seeker!
 
 This script automates the process of checking for available visa interview appointments. 
 
-It logs into your account on https://ais.usvisa-info.com using your username and password, and then scans the appointment page for availability. 
+It logs into your account on https://ais.usvisa-info.com using your username and password and then scans the appointment page for availability. 
 
-You can run the script at regular intervals to receive timely alerts on new appointment slots. 
+You can run the script regularly for timely alerts on new appointment slots. You can use `[crontab](https://medium.com/@justin_ng/how-to-run-your-script-on-a-schedule-using-crontab-on-macos-a-step-by-step-guide-a7ba539acf76)` in MacOS or [Task Scheduler](https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-windows-10) in Windows to run the script on a schedule.
 
-Optionally, you can configure it to send email notifications about appointment availability to you or someone else. 
+Optionally, you can configure it to send you or someone else email notifications about appointment availability. 
 
-Rest assured, the script runs locally on your computer, ensuring that your login details are not shared. 
+Rest assured, the script runs locally on your computer, ensuring your login details are not shared. 
 
 
 > [!IMPORTANT]
-> This code is designed for **Non-Immigrant Visa Applications** and has not been tested for Immigrant Visa applications. However, if you can read/write code, then it should be an easy problem to solve. If you give me a test account to write one, then I am happy to add that support as well.
+> This code is designed for **Non-Immigrant Visa Applications** and has not been tested for Immigrant Visa applications. However, if you can read/write code, then it should be an easy problem to solve. If you give me a test account to write one, I am also happy to add that support.
 
 ## How to run
 
